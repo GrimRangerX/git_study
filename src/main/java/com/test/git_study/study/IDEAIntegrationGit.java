@@ -114,6 +114,7 @@ package com.test.git_study.study;
 
 //7.创建分支(07CreateABranch01-02.png)
 
+//①
 //选择 Git，在 Repository 里面，点击 Branches 按钮。
 
 //在弹出的 Git Branches 框里，点击 New Branch 按钮。
@@ -122,6 +123,8 @@ package com.test.git_study.study;
 
 //然后再 IDEA 的右下角看到 hot-fix，说明分支创建成功，并且当前已经切换成 hot-fix 分支
 
+//②
+//或者右下角可以看到当前分支，然后左键New branch新建分支
 
 //8.切换分支(08SwitchingBranch01-02.png)
 
@@ -129,6 +132,8 @@ package com.test.git_study.study;
 
 //然后在 IDEA 窗口的右下角看到了 master，说明 master 分支切换成功。
 
+//具体步骤：
+//右下角可以看到当前分支，左键点击，然后选中要跳转的分支，然后点击checkout即可跳转
 
 //9.合并分支(09MergeBranch.png)
 
