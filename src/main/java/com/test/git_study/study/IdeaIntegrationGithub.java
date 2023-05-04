@@ -24,6 +24,8 @@ package com.test.git_study.study;
 
 //3.push 推送本地库到远程库(03PushPushesTheLocalLibraryToTheRemoteLibrary.png)
 
+//push commit test
+
 //右键点击项目，可以将当前分支的内容 push 到 GitHub 的远程仓库中。
 
 //注意：push 是将本地库代码推送到远程库，如果本地库代码跟远程库代码版本不一致，
