@@ -41,6 +41,8 @@ package com.test.git_study.study;
 
 //4. pull 拉取远程库到本地库(04PullTheRemoteLibraryToTheLocalLibrary01-02.png)
 
+//pull test
+
 //右键点击项目，可以将远程仓库的内容 pull 到本地仓库。
 
 //注意：pull 是拉取远端仓库代码到本地，如果远程库代码和本地库代码不一致，会自动
