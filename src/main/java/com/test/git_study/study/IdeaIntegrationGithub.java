@@ -53,5 +53,9 @@ package com.test.git_study.study;
 //5.clone 克隆远程库到本地(05CloneRemoteLibraryToLocal01-06.png)
 
 //为 clone 下来的项目创建一个工程，然后点击 Next。
+
+//步骤：
+//idea初始界面 -> get from vcs -> 选择version control版本控制工具、url(项目https或者ssh地址)、剩下一个项目位置自动生成，不需要填写。
+//之后点击clone即可把远程库项目拉倒本地上
 public class IdeaIntegrationGithub {
 }
