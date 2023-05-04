@@ -31,6 +31,7 @@ package com.test.git_study.study;
 //或者VCS/Git -> Push
 //push默认用的是Https的链接，如果想使用SSH链接的话
 //在push界面点击分支右侧一个可以点击的按钮 -> Define Remote ->设置别名和ssh地址确认即可
+//要记得在设置完后通过那个按钮选择对应的别名后才是使用的ssh链接，不选择的话还是使用的默认的Https链接
 
 //注意：push 是将本地库代码推送到远程库，如果本地库代码跟远程库代码版本不一致，
 //push 的操作是会被拒绝的。也就是说，要想 push 成功，一定要保证本地库的版本要比远程
