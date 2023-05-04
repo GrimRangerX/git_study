@@ -1,5 +1,8 @@
 package com.test.git_study.study;
 @SuppressWarnings({"all"})
+
+//gitee push test
+
 //国内代码托管中心-码云
 
 //1.简介(01Introduce.png)
