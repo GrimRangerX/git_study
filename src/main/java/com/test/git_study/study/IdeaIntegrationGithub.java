@@ -19,6 +19,8 @@ package com.test.git_study.study;
 //来到 GitHub 中发现已经帮我们创建好了 gitTest 的远程仓库。
 
 //步骤VCS/Git -> GitHub -> Share project on GitHub
+//填写Repository name库名、Remote别名(建议与库名一致)、Description描述
+
 
 //3.push 推送本地库到远程库(03PushPushesTheLocalLibraryToTheRemoteLibrary.png)
 
