@@ -80,6 +80,10 @@ package com.test.git_study.study;
 
 //如果 GitHub 项目更新了以后，在码云项目端可以手动重新同步，进行更新！
 
+//步骤：
+//导入项目：新建仓库 -> 点击导入仓库
+
+//更新项目：去到仓库页，仓库名右边有个刷新按钮，点击一下
 
 public class DomesticCodeCustodyCenterMayun {
 }
