@@ -1,4 +1,4 @@
-package com.test.gitstudy.study;
+package com.test.git_study.study;
 
 //GitHub 操作(01GitHubOperation.png)
 

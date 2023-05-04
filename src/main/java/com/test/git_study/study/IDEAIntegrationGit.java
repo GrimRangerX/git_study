@@ -1,4 +1,4 @@
-package com.test.gitstudy.study;
+package com.test.git_study.study;
 
 //IDEA 集成 Git
 

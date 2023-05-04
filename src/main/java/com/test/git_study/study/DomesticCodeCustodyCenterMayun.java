@@ -1,4 +1,4 @@
-package com.test.gitstudy.study;
+package com.test.git_study.study;
 @SuppressWarnings({"all"})
 //国内代码托管中心-码云
 

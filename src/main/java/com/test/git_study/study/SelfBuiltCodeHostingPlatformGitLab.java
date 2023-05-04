@@ -1,4 +1,4 @@
-package com.test.gitstudy.study;
+package com.test.git_study.study;
 
 //自建代码托管平台-GitLab
 

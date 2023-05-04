@@ -1,4 +1,4 @@
-package com.test.gitstudy.study;
+package com.test.git_study.study;
 
 //Git 团队协作机制(GitTeamCooperationMechanism.png)
 

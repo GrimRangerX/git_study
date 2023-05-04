@@ -1,4 +1,4 @@
-package com.test.gitstudy.study;
+package com.test.git_study.study;
 @SuppressWarnings({"all"})
 //Git 常用命令(01GitCommonCommands.png)
 

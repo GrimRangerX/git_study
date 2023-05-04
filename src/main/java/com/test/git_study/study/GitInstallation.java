@@ -1,4 +1,4 @@
-package com.test.gitstudy.study;
+package com.test.git_study.study;
 
 //Git安装(GitInstallation.png)
 

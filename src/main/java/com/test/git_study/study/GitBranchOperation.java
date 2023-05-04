@@ -1,4 +1,4 @@
-package com.test.gitstudy.study;
+package com.test.git_study.study;
 
 //Git 分支操作(01GitBranchOperation.png)
 
