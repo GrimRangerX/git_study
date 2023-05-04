@@ -147,7 +147,7 @@ package com.test.git_study.study;
 
 //10.解决冲突(10ResolveTheConflict.png)
 
-//hot-fix test
+//master test
 
 //如图所示，如果 master 分支和 hot-fix 分支都修改了代码，在合并分支的时候就会发生冲突。
 
